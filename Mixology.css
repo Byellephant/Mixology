@@ -8,12 +8,12 @@ h1 {text-align: center;}
     width: 90%;
     height: 500px;
     margin: 0 auto;
-    border: 5px solid black;
+    border: 5px solid black; 
 }
 
 #container div{
     width: 200px;
-    height: 500px;
+    height: 500px; 
 }
 
 #container button{
@@ -23,7 +23,7 @@ h1 {text-align: center;}
   height: 200px;
   border: 3px solid green;
 }
-
+/* THIS IS A COMMENT */
 #Beer{
     width: 30%;
     background:#39DB00;
@@ -42,7 +42,7 @@ h1 {text-align: center;}
 
 
 #Classic{
-    width:30%;
+    width:70%;
     background:#DB4F70;
     background-color: crimson;
     border: 2px solid white;
